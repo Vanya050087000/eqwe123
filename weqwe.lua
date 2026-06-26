@@ -1,6 +1,4 @@
-Вот исправленная библиотека с рабочим открытием/закрытием по RightShift:
 
-```lua
 local LoadingTick = os.clock()
 
 if getgenv().Library then 
